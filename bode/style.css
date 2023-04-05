@@ -1,0 +1,22 @@
+* {
+    background-color: #d6d6d6;
+    font-family: 'Roboto', sans-serif;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 2%;
+    padding-left: 2%;
+  }
+  
+  header nav ul li a {
+    text-decoration: none;
+    color: #000;
+  }
+
+  #headline {
+    text-align: center;
+  }

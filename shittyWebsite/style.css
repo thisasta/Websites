@@ -1,0 +1,24 @@
+body {
+
+    width: auto;
+    height: auto;
+
+    background-color: bisque;
+
+}
+
+#name {
+
+    width: max-content;
+    height: max-content;
+
+    background-color: green;
+
+}
+#off {
+
+    width: max-content;
+    height: max-content;
+
+    background-color: bisque;
+}
