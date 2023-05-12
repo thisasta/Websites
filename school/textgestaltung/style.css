@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+#header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF0000;
+}
+
+.blue {
+    color: blue; 
+}
+
