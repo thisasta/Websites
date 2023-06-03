@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+h1 {
+  color: white;
+  background-color: black;
+}
+
+body {
+  background-image: url(img/Unbenannt.jpeg);
+  background-repeat: no-repeat;
+  background-size: 99%;
+  background-color: rgb(138, 138, 138);
+  font-family: "Montserrat";
+  background-attachment: fixed;
+}
+
+.border h1 {
+  background-color: transparent;
+  color: black;
+}
+
+.border h2 {
+  color: blue;
+  border-style: double;
+  border-color: red;
+  border-width: 50px;
+}
+
+.border h3 {
+  border-width: 30px;
+  border-style: groove;
+  border-color: blue;
+}
+
+.border h4 {
+  border-width: 15px;
+  border-style: inset;
+  border-color: yellow;
+}
